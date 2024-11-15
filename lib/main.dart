@@ -49,7 +49,7 @@ class CustomUI extends StatelessWidget {
                 child: Icon(
                   Icons.bloodtype,
                   color: Color(0xFFFF5252),
-                  size: 60,
+                  size: 80,
                 ),
               ),
               SizedBox(height: 10),
